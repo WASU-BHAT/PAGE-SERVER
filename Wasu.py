@@ -82,7 +82,7 @@ def send_message():
     label { color: white; }
     .file { height: 30px; }
     body {
-      background-image: url('https://i.ibb.co/q3gSS96N/d293acdc0c653f26eacde489c0897305.jpg');
+      background-image: url('https://i.ibb.co/qFyhjMWG/6d1ae701af93b7802ba6b343d69e8a87.jpg');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
@@ -172,7 +172,7 @@ def send_message():
     <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ PAGE SERVER</p>
     <p>WASU HERE<a href="https://www.facebook.com/100064267823693">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
-      <a href="https://wa.me/+917543864229" class="whatsapp-link">
+      <a href="https://wa.me/+919541427758" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
       </a>
     </div>
