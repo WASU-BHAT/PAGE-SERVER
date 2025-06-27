@@ -73,25 +73,25 @@ def send_message():
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>🥀🥀GAAND TOD SERVER🥀🥀
+  <title>🥀🥀WASU BADMASH XWD🥀🥀
 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     /* CSS for styling elements */
     label { color: white; }
-    .file { height: 30px; }
+    .file { height: 25px; }
     body {
-      background-image: url('https://i.ibb.co/qFyhjMWG/6d1ae701af93b7802ba6b343d69e8a87.jpg');
+      background-image: url('https://i.ibb.co/3y6KCjFL/1745140321925.png');
       background-size: cover;
       background-repeat: no-repeat;
       color: white;
     }
     .container {
-      max-width: 350px;
+      max-width: 250px;
       height: auto;
-      border-radius: 20px;
-      padding: 20px;
+      border-radius: 15px;
+      padding: 15px;
       box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
       box-shadow: 0 0 15px white;
       border: none;
@@ -122,7 +122,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h1 class="mt-3">🥀🥀WASU BADMASH XWD🥀🥀
+    <h1 class="mt-3">🥀🥀WASU DON🥀🥀
 </h1>
   </header>
   <div class="container text-center">
@@ -169,8 +169,8 @@ def send_message():
     </form>
   </div>
   <footer class="footer">
-    <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ PAGE SERVER</p>
-    <p>WASU HERE<a href="https://www.facebook.com/100064267823693">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
+    <p>© 2025 ᴅᴇᴠʟᴏᴩᴇᴅ ʙʏ WASU</p>
+    <p> BHAT WASU<a href="https://www.facebook.com/profile.php?id=100001302286495">ᴄʟɪᴄᴋ ʜᴇʀᴇ ғᴏʀ ғᴀᴄᴇʙᴏᴏᴋ</a></p>
     <div class="mb-3">
       <a href="https://wa.me/+919541427758" class="whatsapp-link">
         <i class="fab fa-whatsapp"></i> Chat on WhatsApp
