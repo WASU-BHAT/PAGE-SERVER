@@ -1,13 +1,13 @@
  "builds": [
     {
-      "src": "main.py",
+      "src": "Wasu.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "main.py"
+      "dest": "Wasu.py"
     }
   ]
 }
